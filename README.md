@@ -1,5 +1,8 @@
 # leetcode
 
+## Binary Search
+1. 35 Search Insert Position
+
 ## Sort
 1. 1288 Remove Covered Intervals
 
