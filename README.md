@@ -1,5 +1,8 @@
 # leetcode
 
+## Array
+1. 27 Remove Element
+
 ## Binary Search
 1. 35 Search Insert Position
 
