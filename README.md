@@ -15,6 +15,7 @@
 ## Binary Tree
 1. 114 Flatten Binary Tree to Linked List
 1. 226 Invert Binary Tree
+1. 297 Serialize and Deserialize Binary Tree
 
 ## Breath First Search
 1. Minimum Depth of Binary Tree
