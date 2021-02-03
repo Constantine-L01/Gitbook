@@ -6,6 +6,9 @@
 ## Binary Search
 1. 35 Search Insert Position
 
+## HashMap
+1. 202 Happy Number
+
 ## Sort
 1. 1288 Remove Covered Intervals
 
