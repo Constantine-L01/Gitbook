@@ -35,6 +35,7 @@
 1. 392 Is Subsequence
 1. 435 Non-overlapping Intervals
 1. 746 Min Cost Climbing Stairs
+1. 1143 Longest Common Subsequence
 1. 1277 Count Square Submatrices with All Ones
 1. 1314 Matrix Block Sum
 1. 1641 Count Sorted Vowel Strings
