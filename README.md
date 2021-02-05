@@ -7,6 +7,7 @@
 1. 35 Search Insert Position
 
 ## HashMap
+1. 1 Two Sum
 1. 202 Happy Number
 
 ## Sort
