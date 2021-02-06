@@ -10,6 +10,9 @@
 1. 1 Two Sum
 1. 202 Happy Number
 
+## Two Pointers
+1. 15 3Sum
+
 ## Sort
 1. 1288 Remove Covered Intervals
 
