@@ -36,3 +36,24 @@ public:
         return pre;
     }
 };
+
+// recursive solution
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        // head == NULL is required for the test case of NULL linked list
+        if(head == NULL || head->next == NULL) {
+            return head;
+        }
+        
+        // newHead will always be the same 
+        ListNode* newHead = reverseList(head->next);
+        
+        // the next pointer of next node will point to the current node
+        head->next->next = head;
+        // required as the last element of the linked list need to point to NULL
+        head->next = NULL;
+        
+        return newHead;
+    }
+};
