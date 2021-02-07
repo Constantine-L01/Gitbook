@@ -25,6 +25,7 @@
 1. 116 Populating Next Right Pointers in Each Node
 1. 226 Invert Binary Tree
 1. 297 Serialize and Deserialize Binary Tree
+1. 654 Maximum Binary Tree
 
 ## Breath First Search
 1. Minimum Depth of Binary Tree
