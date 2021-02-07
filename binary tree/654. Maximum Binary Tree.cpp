@@ -60,3 +60,29 @@ public:
         return constructRoot(nums, 0, nums.size() - 1);
     }
 };
+
+
+// Solution by using Monotone Stack
+class Solution {
+public:
+    TreeNode*  constructMaximumBinaryTree(vector<int>& nums) {
+        vector<TreeNode*> stk;
+        for (int i = 0; i < nums.size(); i++) 
+        {
+            TreeNode* cur = new TreeNode(nums[i]);
+            // Descending order, thus will pop out numbers smaller than the current number, then assign the largest popped out number as the left subtree of current number. 
+            while(!stk.empty() && stk.back()->val < nums[i]) {
+                cur->left = stk.back();
+                stk.pop_back();
+            }
+            // The current number will be assigned as the right subtree of the top element of the stack.
+            if (!stk.empty()) {
+                stk.back()->right = cur;
+            }
+            // eventually push the current number into the stack. 
+            stk.push_back(cur);
+        }
+        // return the root
+        return stk.front();
+    }
+};
