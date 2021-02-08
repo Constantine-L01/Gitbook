@@ -21,6 +21,7 @@
 1. 206 Reverse Linked List
 
 ## Binary Tree
+1. 105 Construct Binary Tree from Preorder and Inorder Traversal
 1. 114 Flatten Binary Tree to Linked List
 1. 116 Populating Next Right Pointers in Each Node
 1. 226 Invert Binary Tree
