@@ -22,6 +22,7 @@
 
 ## Binary Tree
 1. 105 Construct Binary Tree from Preorder and Inorder Traversal
+1. 106 Construct Binary Tree from Inorder and Postorder Traversal
 1. 114 Flatten Binary Tree to Linked List
 1. 116 Populating Next Right Pointers in Each Node
 1. 226 Invert Binary Tree
