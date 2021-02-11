@@ -17,6 +17,8 @@ Output: 1->4->3->2->5->NULL
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+    
+// recursive solution
 class Solution {
 public:
     ListNode* successor = NULL;
@@ -45,5 +47,37 @@ public:
         head->next = reverseBetween(head->next, m-1, n-1);
         
         return head;
+    }
+};
+
+// iterative solution
+class Solution {
+public:    
+    ListNode* reverseBetween(ListNode* head, int m, int n) {
+        if(!head) {
+            return NULL;
+        }
+        
+        ListNode ret(0);
+        ret.next = head;
+        ListNode* pre = &ret;
+        
+        for(int i = 0; i < m-1; i++) {
+            pre = pre->next;
+        }
+        
+        ListNode* start = pre->next;
+        ListNode* then = start->next;
+        
+        for(int i = 0; i < n-m; i++) {
+            start->next = then->next;
+            // must use pre->next, but not start because start is not always point to the element behind pre.
+            then->next = pre->next;
+            pre->next = then;
+            // must use start->next, but not then->next because at this time then->next is not pointing to the original element after then.
+            then = start->next;
+        }
+
+        return ret.next;
     }
 };
