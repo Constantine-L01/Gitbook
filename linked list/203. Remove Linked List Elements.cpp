@@ -15,6 +15,8 @@ Output: 1->2->3->4->5
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+    
+// recursive solution
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
@@ -33,5 +35,28 @@ public:
         }
         
         return head;
+    }
+};
+
+// iterative solution
+
+class Solution {
+public:
+    ListNode* removeElements(ListNode* head, int val) {
+        ListNode dummy;
+        dummy.next = head;
+        ListNode* pre = &dummy;
+        
+        // only need to detect pre->next as scenario of pre -> NULL -> NULL is impossible
+        while(!(pre->next == NULL)){
+            if(pre->next->val == val){
+                pre->next = pre->next->next;
+            }
+            else {
+                pre = pre->next;        
+            }
+        }
+        
+        return dummy.next;
     }
 };
