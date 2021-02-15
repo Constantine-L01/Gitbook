@@ -29,3 +29,27 @@ public:
         return res == INT32_MAX ? 0 : res;
     }
 };
+
+// sliding window
+class Solution {
+public:
+    int minSubArrayLen(int target, vector<int>& nums) {
+        int res = INT32_MAX;
+        int sums = 0;
+        int subLen = 0;
+        int i = 0;
+        
+        for(int j = 0; j < nums.size(); j++){
+            sums += nums[j];
+            // shrink the window by move the left boundary to right.
+            while(sums >= target){
+                subLen = j - i + 1;
+                res = min(res, subLen);
+                sums -= nums[i];
+                i++;
+            }
+        }
+        
+        return res == INT32_MAX ? 0 : res;
+    }
+};
