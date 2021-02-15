@@ -2,6 +2,7 @@
 
 ## Array
 1. 27 Remove Element
+1. 209 Minimum Size Subarray Sum
 
 ## Binary Search
 1. 35 Search Insert Position
