@@ -38,3 +38,39 @@ public:
         return root;
     }
 };
+
+// iterative solution
+class Solution {
+public:
+    TreeNode* insertIntoBST(TreeNode* root, int val) {
+        if(root == nullptr) {
+            TreeNode* node = new TreeNode(val);
+            return node;
+        }
+        
+        TreeNode* cur = root;
+        TreeNode* parent = root;
+        
+        while(cur != nullptr) {
+            parent = cur;
+            if(cur->val > val) {
+                cur = cur->left;
+            }
+            // must have else if
+            else if(cur->val < val) {
+                cur = cur->right;
+            }
+        }
+        
+        TreeNode* node = new TreeNode(val);
+        if(parent->val > val) {
+            parent->left = node;
+        }
+        
+        if(parent->val < val) {
+            parent->right = node;    
+        }      
+                
+        return root;
+    }
+};
