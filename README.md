@@ -25,9 +25,10 @@
 
 ## Linked List
 1. 92 Reverse Linked List II
-1. 203 Remove Linked List Elements
-1. 206 Reverse Linked List
-1. 707 Design Linked List
+2. 142 Linked List Cycle II
+3. 203 Remove Linked List Elements
+4. 206 Reverse Linked List
+5. 707 Design Linked List
 
 ## Binary Tree
 1. 105 Construct Binary Tree from Preorder and Inorder Traversal
