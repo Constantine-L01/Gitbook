@@ -12,6 +12,7 @@
 1. 1 Two Sum
 2. 202 Happy Number
 3. 242 Valid Anagram
+4. 349 Intersection of Two Arrays
 
 ## Two Pointers
 1. 15 3Sum
