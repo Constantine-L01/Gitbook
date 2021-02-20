@@ -22,7 +22,8 @@
 1. 344 Reverse String
 
 ## String
-1. 541 Reverse String II
+1. 151 Reverse Words in a String
+2. 541 Reverse String II
 
 ## Sort
 1. 1288 Remove Covered Intervals
