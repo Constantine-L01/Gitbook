@@ -13,7 +13,8 @@
 2. 202 Happy Number
 3. 242 Valid Anagram
 4. 349 Intersection of Two Arrays
-5. 454 4Sum II
+5. 383 Ransom Note
+6. 454 4Sum II
 
 ## Two Pointers
 1. 15 3Sum
