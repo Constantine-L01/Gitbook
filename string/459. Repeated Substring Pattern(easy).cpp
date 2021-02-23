@@ -59,3 +59,39 @@ public:
         return false;
     }
 };
+
+// KMP
+class Solution {
+public:
+    void nextTable(int* next, const string& s){
+        int j = 0;
+        next[0] = 0;
+        
+        for(int i = 1; i < s.size(); i++) {
+            while(j >= 1 && (s[i] != s[j])){
+                j = next[j - 1];
+            }
+            if(s[i] == s[j]){
+                j++;
+            }
+            next[i] = j;
+        }
+        return;
+    }
+    
+    bool repeatedSubstringPattern(string s) {
+        int len = s.size();
+        if(len == 0) {
+            return false;
+        }
+        int next[len];
+        nextTable(next, s);
+        // if last position is suffix(at least match 1 char) and the length of string could be divide by prefix without remainder
+        if((next[len - 1] != 0) && (len % (len - next[len - 1]) == 0 )) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+};
