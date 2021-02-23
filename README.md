@@ -23,8 +23,9 @@
 
 ## String
 1. 28 Implement strStr()
-1. 151 Reverse Words in a String
-2. 541 Reverse String II
+2. 151 Reverse Words in a String
+3. 459 Repeated Substring Pattern
+4. 541 Reverse String II
 
 ## Sort
 1. 1288 Remove Covered Intervals
