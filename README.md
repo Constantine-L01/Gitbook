@@ -21,6 +21,9 @@
 1. 18 4Sum
 1. 344 Reverse String
 
+## Stack
+1. 20 Valid Parentheses
+
 ## String
 1. 28 Implement strStr()
 2. 151 Reverse Words in a String
