@@ -23,6 +23,7 @@
 
 ## Stack
 1. 20 Valid Parentheses
+2. 1047 Remove All Adjacent Duplicates In String
 
 ## String
 1. 28 Implement strStr()
