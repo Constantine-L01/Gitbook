@@ -35,3 +35,31 @@ public:
         return s.substr(0, i);
     }
 };
+
+// Stack
+class Solution {
+public:
+    string removeDuplicates(string s, int k) {
+        // could place a placeholder, then no need to check for st.empty()
+        vector<pair<int, char>> st ;
+        
+       for(char c: s){
+           if(!st.empty() && st.back().second != c){
+               st.push_back({1, c});
+           }
+           else if(!st.empty() && ++st.back().first == k) {
+               st.pop_back();
+           }
+           else if(st.empty()) {
+               st.push_back({1, c});
+           }
+       }
+        
+        string res;
+        for(auto & p: st){
+            res.append(p.first, p.second);
+        }
+        
+        return res;
+    }
+};
