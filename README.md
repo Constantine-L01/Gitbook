@@ -23,8 +23,9 @@
 
 ## Stack
 1. 20 Valid Parentheses
-2. 1047 Remove All Adjacent Duplicates In String
-3. 1209 Remove All Adjacent Duplicates in String II
+2. 150 Evaluate Reverse Polish Notation
+3. 1047 Remove All Adjacent Duplicates In String
+4. 1209 Remove All Adjacent Duplicates in String II
 
 ## String
 1. 28 Implement strStr()
