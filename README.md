@@ -54,7 +54,8 @@
 1. 654 Maximum Binary Tree
 
 ## Binary Search Tree
-1. 701 Insert into a Binary Search Tree
+1. 450 Delete Node in a BST
+2. 701 Insert into a Binary Search Tree
 
 ## Breath First Search
 1. Minimum Depth of Binary Tree
