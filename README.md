@@ -25,8 +25,9 @@
 1. 20 Valid Parentheses
 2. 150 Evaluate Reverse Polish Notation
 3. 239 Sliding Window Maximum
-4. 1047 Remove All Adjacent Duplicates In String
-5. 1209 Remove All Adjacent Duplicates in String II
+4. 347 Top K Frequent Elements
+5. 1047 Remove All Adjacent Duplicates In String
+6. 1209 Remove All Adjacent Duplicates in String II
 
 ## String
 1. 28 Implement strStr()
