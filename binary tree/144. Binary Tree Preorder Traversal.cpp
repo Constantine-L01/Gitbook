@@ -36,3 +36,28 @@ public:
         return res;
     }
 };
+
+// iterative with stack
+class Solution {
+public:    
+    vector<int> preorderTraversal(TreeNode* root) {
+        stack<TreeNode*> st;
+        vector<int> res;
+        st.push(root);
+        
+        while(!st.empty()){
+            TreeNode* node = st.top();
+            st.pop();
+            
+            if(node != nullptr) {
+                res.push_back(node->val);
+            }
+            else continue;
+            
+            st.push(node->right);
+            st.push(node->left);
+        }
+        
+        return res;        
+    }
+};
