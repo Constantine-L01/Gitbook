@@ -46,15 +46,16 @@
 5. 707 Design Linked List
 
 ## Binary Tree
-1. 105 Construct Binary Tree from Preorder and Inorder Traversal
-1. 106 Construct Binary Tree from Inorder and Postorder Traversal
-1. 114 Flatten Binary Tree to Linked List
-1. 116 Populating Next Right Pointers in Each Node
-2. 144 Binary Tree Preorder Traversal
-3. 226 Invert Binary Tree
-4. 297 Serialize and Deserialize Binary Tree
-5. 652 Find Duplicate Subtrees
-6. 654 Maximum Binary Tree
+1. 94 Binary Tree Inorder Traversal
+2. 105 Construct Binary Tree from Preorder and Inorder Traversal
+3. 106 Construct Binary Tree from Inorder and Postorder Traversal
+4. 114 Flatten Binary Tree to Linked List
+5. 116 Populating Next Right Pointers in Each Node
+6. 144 Binary Tree Preorder Traversal
+7. 226 Invert Binary Tree
+8. 297 Serialize and Deserialize Binary Tree
+9. 652 Find Duplicate Subtrees
+10. 654 Maximum Binary Tree
 
 ## Binary Search Tree
 1. 450 Delete Node in a BST
