@@ -38,3 +38,29 @@ public:
         return res;
     }
 };
+
+// iterative with stack
+class Solution {
+public:
+   
+    vector<int> inorderTraversal(TreeNode* root) {
+        stack<TreeNode*> st;
+        vector<int> res;
+        TreeNode* curr = root;
+        
+        // must check for curr != nullptr because curr is nullptr initially
+        while(!st.empty() || curr != nullptr){
+            if(curr != nullptr){
+                st.push(curr);
+                curr = curr->left;
+            }
+            else {
+                curr = st.top();
+                st.pop();
+                res.push_back(curr->val);
+                curr = curr->right;
+            }
+        }
+        return res;
+    }
+};
