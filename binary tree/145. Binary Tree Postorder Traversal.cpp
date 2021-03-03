@@ -16,6 +16,8 @@ Output: [3,2,1]
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ 
+// recursive solution
 class Solution {
 public:
     vector<int> res;
@@ -33,6 +35,30 @@ public:
     
     vector<int> postorderTraversal(TreeNode* root) {
         traverse(root);
+        return res;
+    }
+};
+
+// iterative with stack
+class Solution {
+public:   
+    vector<int> postorderTraversal(TreeNode* root) {
+        stack<TreeNode*> st;
+        vector<int> res;
+        st.push(root);
+        
+        while(!st.empty()){
+            TreeNode* node = st.top();
+            st.pop();
+            if(node != nullptr){
+                res.push_back(node->val);
+            }
+            else continue;
+            st.push(node->left);
+            st.push(node->right);            
+        }
+        reverse(res.begin(), res.end());
+        
         return res;
     }
 };
