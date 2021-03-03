@@ -52,10 +52,11 @@
 4. 114 Flatten Binary Tree to Linked List
 5. 116 Populating Next Right Pointers in Each Node
 6. 144 Binary Tree Preorder Traversal
-7. 226 Invert Binary Tree
-8. 297 Serialize and Deserialize Binary Tree
-9. 652 Find Duplicate Subtrees
-10. 654 Maximum Binary Tree
+7. 145 Binary Tree Postorder Traversal
+8. 226 Invert Binary Tree
+9. 297 Serialize and Deserialize Binary Tree
+10. 652 Find Duplicate Subtrees
+11. 654 Maximum Binary Tree
 
 ## Binary Search Tree
 1. 450 Delete Node in a BST
