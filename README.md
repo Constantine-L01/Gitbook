@@ -47,7 +47,7 @@
 
 ## Binary Tree
 1. 94 Binary Tree Inorder Traversal
-2. 102 Binary Tree Level Order Traversal <span style="color:orange">(Medium)</span>.
+2. 102 Binary Tree Level Order Traversal <span style="color:blue">(Medium)</span>
 3. 105 Construct Binary Tree from Preorder and Inorder Traversal
 4. 106 Construct Binary Tree from Inorder and Postorder Traversal
 5. 114 Flatten Binary Tree to Linked List
