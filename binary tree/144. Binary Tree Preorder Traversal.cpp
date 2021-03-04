@@ -61,3 +61,38 @@ public:
         return res;        
     }
 };
+
+// universal style
+class Solution {
+public:    
+    vector<int> preorderTraversal(TreeNode* root) {
+        stack<TreeNode*> st;
+        vector<int> res;
+        
+        if(root != nullptr){
+            st.push(root);
+        }
+        
+        while(!st.empty()){
+            TreeNode* node = st.top();
+            if(node != nullptr){
+                st.pop();
+                if(node->right){
+                    st.push(node->right);
+                }
+                if(node->left){
+                    st.push(node->left);
+                }
+                st.push(node);
+                st.push(nullptr);
+            }
+            else {
+                st.pop();
+                node = st.top();
+                st.pop();
+                res.push_back(node->val);
+            }
+        }
+        return res;
+    }
+};
