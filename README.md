@@ -47,7 +47,7 @@
 
 ## Binary Tree
 1. 94 Binary Tree Inorder Traversal
-2. 102 Binary Tree Level Order Traversal - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Medium` 
+2. 102 Binary Tree Level Order Traversal - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 3. 105 Construct Binary Tree from Preorder and Inorder Traversal
 4. 106 Construct Binary Tree from Inorder and Postorder Traversal
 5. 107 Binary Tree Level Order Traversal II 
@@ -55,11 +55,12 @@
 7. 116 Populating Next Right Pointers in Each Node
 8. 144 Binary Tree Preorder Traversal
 9. 145 Binary Tree Postorder Traversal
-10. 199. Binary Tree Right Side View - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Medium` 
+10. 199. Binary Tree Right Side View - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 11. 226 Invert Binary Tree
 12. 297 Serialize and Deserialize Binary Tree
-13. 652 Find Duplicate Subtrees
-14. 654 Maximum Binary Tree
+13. 637 Average of Levels in Binary Tree - ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Medium` 
+14. 652 Find Duplicate Subtrees
+15. 654 Maximum Binary Tree
 
 ## Binary Search Tree
 1. 450 Delete Node in a BST
