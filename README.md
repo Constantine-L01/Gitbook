@@ -58,9 +58,10 @@
 10. 199. Binary Tree Right Side View - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 11. 226 Invert Binary Tree
 12. 297 Serialize and Deserialize Binary Tree
-13. 637 Average of Levels in Binary Tree - ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Medium` 
-14. 652 Find Duplicate Subtrees
-15. 654 Maximum Binary Tree
+13. 429. N-ary Tree Level Order Traversal ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+14. 637 Average of Levels in Binary Tree - ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+15. 652 Find Duplicate Subtrees
+16. 654 Maximum Binary Tree
 
 ## Binary Search Tree
 1. 450 Delete Node in a BST
