@@ -48,21 +48,22 @@
 ## Binary Tree
 1. 94 Binary Tree Inorder Traversal
 2. 101 Symmetric Tree ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
-3. 102 Binary Tree Level Order Traversal - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-4. 105 Construct Binary Tree from Preorder and Inorder Traversal
-5. 106 Construct Binary Tree from Inorder and Postorder Traversal
-6. 107 Binary Tree Level Order Traversal II 
-7. 114 Flatten Binary Tree to Linked List
-8. 116 Populating Next Right Pointers in Each Node
-9. 144 Binary Tree Preorder Traversal
-10. 145 Binary Tree Postorder Traversal
-11. 199. Binary Tree Right Side View - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-12. 226 Invert Binary Tree
-13. 297 Serialize and Deserialize Binary Tree
-14. 429. N-ary Tree Level Order Traversal ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-15. 637 Average of Levels in Binary Tree - ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
-16. 652 Find Duplicate Subtrees
-17. 654 Maximum Binary Tree
+3. 102 Binary Tree Level Order Traversal ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+4. 104. Maximum Depth of Binary Tree ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+5. 105 Construct Binary Tree from Preorder and Inorder Traversal
+6. 106 Construct Binary Tree from Inorder and Postorder Traversal
+7. 107 Binary Tree Level Order Traversal II 
+8. 114 Flatten Binary Tree to Linked List
+9. 116 Populating Next Right Pointers in Each Node
+10. 144 Binary Tree Preorder Traversal
+11. 145 Binary Tree Postorder Traversal
+12. 199. Binary Tree Right Side View ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+13. 226 Invert Binary Tree
+14. 297 Serialize and Deserialize Binary Tree
+15. 429. N-ary Tree Level Order Traversal ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+16. 637 Average of Levels in Binary Tree ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+17. 652 Find Duplicate Subtrees
+18. 654 Maximum Binary Tree
 
 ## Binary Search Tree
 1. 450 Delete Node in a BST
