@@ -47,21 +47,22 @@
 
 ## Binary Tree
 1. 94 Binary Tree Inorder Traversal
-2. 102 Binary Tree Level Order Traversal - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-3. 105 Construct Binary Tree from Preorder and Inorder Traversal
-4. 106 Construct Binary Tree from Inorder and Postorder Traversal
-5. 107 Binary Tree Level Order Traversal II 
-6. 114 Flatten Binary Tree to Linked List
-7. 116 Populating Next Right Pointers in Each Node
-8. 144 Binary Tree Preorder Traversal
-9. 145 Binary Tree Postorder Traversal
-10. 199. Binary Tree Right Side View - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-11. 226 Invert Binary Tree
-12. 297 Serialize and Deserialize Binary Tree
-13. 429. N-ary Tree Level Order Traversal ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-14. 637 Average of Levels in Binary Tree - ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
-15. 652 Find Duplicate Subtrees
-16. 654 Maximum Binary Tree
+2. 101 Symmetric Tree ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+3. 102 Binary Tree Level Order Traversal - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+4. 105 Construct Binary Tree from Preorder and Inorder Traversal
+5. 106 Construct Binary Tree from Inorder and Postorder Traversal
+6. 107 Binary Tree Level Order Traversal II 
+7. 114 Flatten Binary Tree to Linked List
+8. 116 Populating Next Right Pointers in Each Node
+9. 144 Binary Tree Preorder Traversal
+10. 145 Binary Tree Postorder Traversal
+11. 199. Binary Tree Right Side View - ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+12. 226 Invert Binary Tree
+13. 297 Serialize and Deserialize Binary Tree
+14. 429. N-ary Tree Level Order Traversal ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+15. 637 Average of Levels in Binary Tree - ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+16. 652 Find Duplicate Subtrees
+17. 654 Maximum Binary Tree
 
 ## Binary Search Tree
 1. 450 Delete Node in a BST
