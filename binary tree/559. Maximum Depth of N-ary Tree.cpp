@@ -44,4 +44,29 @@ public:
     }
 };
 
-// iterative solution
+// iterative solutionclass Solution {
+public:
+    int maxDepth(Node* root) {
+        queue<Node*> que;
+        int depth = 0;
+        
+        if(root != nullptr){
+            que.push(root);
+        }
+        
+        while(!que.empty()){
+            int size = que.size();
+            depth++;            
+            for(int i = 0; i < size; i++){
+                Node* node = que.front();
+                que.pop();
+                for(int j = 0; j < node->children.size(); j++){
+                    if(node->children[j] != nullptr){
+                        que.push(node->children[j]);
+                    }    
+                }
+            }
+        }        
+        return depth;
+    }
+};
