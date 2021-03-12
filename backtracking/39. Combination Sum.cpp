@@ -42,3 +42,35 @@ public:
         return res;
     }
 };
+
+// optimized, need to sort the array first
+class Solution {
+public:
+    vector<vector<int>> res;
+    vector<int> path;
+    
+    void backtracking(vector<int>& candidates, int target, int startIndex){
+        if(target < 0){
+            return;
+        }
+        
+        if(target == 0){
+            res.push_back(path);
+            return;
+        }
+        
+        for(int i = startIndex; i < candidates.size() && target >= candidates[i]; i++){
+            target -= candidates[i];
+            path.push_back(candidates[i]);
+            backtracking(candidates, target, i);
+            path.pop_back();
+            target += candidates[i];
+        }
+    }
+        
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        sort(candidates.begin(), candidates.end());
+        backtracking(candidates, target, 0);
+        return res;
+    }
+};
