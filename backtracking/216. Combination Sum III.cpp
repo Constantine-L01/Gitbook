@@ -40,3 +40,36 @@ public:
         return res;
     }
 };
+
+// optimized
+class Solution {
+public:
+    vector<vector<int>> res;
+    vector<int> path;
+    
+    void backtrack(int targetSum, int k, int startIndex) {
+        if(targetSum < 0){
+            return;
+        }
+        
+        if(path.size() == k){
+            if(targetSum == 0){
+                res.push_back(path);            
+            }
+         return;
+        }       
+
+        for(int i = startIndex; i <= 9; i++){
+            targetSum -= i;
+            path.push_back(i);
+            backtrack(targetSum, k, i + 1 );
+            targetSum += i;
+            path.pop_back();
+        }        
+    }
+    
+    vector<vector<int>> combinationSum3(int k, int n) {
+        backtrack(n, k, 1);
+        return res;
+    }
+};
