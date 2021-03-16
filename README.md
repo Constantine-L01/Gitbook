@@ -78,9 +78,10 @@
 2. 39 Combination Sum ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 3. 40 Combination Sum II ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 4. 77 Combinations ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-5. 93 Restore IP Addresses ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-6. 131 Palindrome Partitioning ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-7. 216 Combination Sum III ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+5. 78 Subsets ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+6. 93 Restore IP Addresses ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+7. 131 Palindrome Partitioning ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+8. 216 Combination Sum III ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 
 ##  Dynamic Programming
 1. 53 Maximum Subarray
