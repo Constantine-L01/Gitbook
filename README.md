@@ -83,6 +83,7 @@
 7. 93 Restore IP Addresses ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 8. 131 Palindrome Partitioning ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 9. 216 Combination Sum III ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+10. 491 Increasing Subsequences ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 
 ##  Dynamic Programming
 1. 53 Maximum Subarray ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
