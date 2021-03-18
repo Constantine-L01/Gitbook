@@ -33,3 +33,35 @@ public:
         return res;
     }
 };
+
+// optimized solution
+class Solution {
+public:
+    vector<vector<int>> res;
+    vector<int> path;
+    
+    void backtracking(vector<int>& nums, int startIndex) {
+        if(path.size() > 1){
+            res.push_back(path);
+        }
+        
+        // need to be 201 because 1 to 100 is 100 elements, -1 to -100 is 100 elements, add up 0 becomes 201
+        int used[201] = {0};
+        
+        for(int i = startIndex; i < nums.size(); i++){
+            // need to + 100 since indexing starts at 0 
+            if((!path.empty() && nums[i] < path.back()) || used[nums[i] + 100] == 1){
+                continue;
+            }
+            path.push_back(nums[i]);
+            used[nums[i] + 100] = 1;
+            backtracking(nums, i + 1);            
+            path.pop_back();
+        }
+    }
+    
+    vector<vector<int>> findSubsequences(vector<int>& nums) {
+        backtracking(nums, 0);
+        return res;
+    }
+};
