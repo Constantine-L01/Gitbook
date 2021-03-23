@@ -75,19 +75,20 @@
 
 ## Backtracking
 1. 17 Letter Combinations of a Phone Number ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium`
-2. 39 Combination Sum ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-3. 40 Combination Sum II ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-4. 46 Permutations ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-5. 47 Permutations II ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-6. 51 N-Queens ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard`
-7. 77 Combinations ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-8. 78 Subsets ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-9. 90 Subsets II ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-10. 93 Restore IP Addresses ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-11. 131 Palindrome Partitioning ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-12. 216 Combination Sum III ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-13. 332 Reconstruct Itinerary ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-14. 491 Increasing Subsequences ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+2. 37 Sudoku Solver ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard`
+3. 39 Combination Sum ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+4. 40 Combination Sum II ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+5. 46 Permutations ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+6. 47 Permutations II ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+7. 51 N-Queens ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard`
+8. 77 Combinations ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+9. 78 Subsets ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+10. 90 Subsets II ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+11. 93 Restore IP Addresses ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+12. 131 Palindrome Partitioning ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+13. 216 Combination Sum III ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+14. 332 Reconstruct Itinerary ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+15. 491 Increasing Subsequences ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 
 ##  Dynamic Programming
 1. 53 Maximum Subarray ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
