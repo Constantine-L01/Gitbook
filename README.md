@@ -105,4 +105,6 @@
 1. 1641 Count Sorted Vowel Strings ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 
 ## Greedy Algorithm
-1. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+1. 435 Non-overlapping Intervals ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+2. 452 Minimum Number of Arrows to Burst Balloons ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+3. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
