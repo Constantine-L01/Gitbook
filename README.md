@@ -103,3 +103,6 @@
 1. 1277 Count Square Submatrices with All Ones ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 1. 1314 Matrix Block Sum ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 1. 1641 Count Sorted Vowel Strings ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+
+## Greedy Algorithm
+1. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
