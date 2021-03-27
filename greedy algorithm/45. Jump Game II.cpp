@@ -41,3 +41,30 @@ public:
         return ans;
     }
 };
+
+// simplified solution, because the question assume that the last index could always be reach, so just +1 if currDistance could only reach the last 2nd element. 
+class Solution {
+public:
+    int jump(vector<int>& nums) {
+        if(nums.size() == 1) {
+            return 0;
+        }
+        
+        int currDistance = 0;
+        int ans = 0;
+        int nextDistance = 0;
+        
+        for(int i = 0; i < nums.size() - 1; i++){
+            nextDistance = max(i + nums[i], nextDistance);
+            if(i == currDistance){
+               ans++;
+                currDistance = nextDistance;
+            }
+        }
+        
+        return ans;
+    }
+};
+
+
+
