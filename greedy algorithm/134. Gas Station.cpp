@@ -39,3 +39,61 @@ public:
         return -1;
     }
 };
+
+// two pass
+class Solution {
+public:
+    int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
+        int minSum = INT_MAX;
+        int currSum = 0;
+        
+        for(int i = 0; i < gas.size(); i++){
+            currSum += gas[i] - cost[i];
+            minSum = min(minSum, currSum); 
+        }
+        
+        if(currSum < 0) {
+            return -1;
+        }
+        
+        if(minSum >= 0) {
+            return 0;
+        }
+        
+        for(int i = gas.size() - 1; i >= 0; i--){
+            minSum += gas[i] - cost[i];
+            if(minSum >= 0){
+                return i;
+            }
+        }
+        
+        return -1;
+    }    
+};
+
+// one pass
+class Solution {
+public:
+    int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
+        int start = 0;
+        int currSum = 0;
+        int totalSum = 0;
+        
+        for(int i = 0; i < gas.size(); i++){
+            totalSum += gas[i] - cost[i];
+            currSum += gas[i] - cost[i];
+            
+            if(currSum < 0){
+                start = i + 1;
+                currSum = 0;
+            }
+        }
+        
+        if(totalSum < 0){
+            return -1;
+        }
+        else {
+            return start;
+        }        
+    }    
+};
