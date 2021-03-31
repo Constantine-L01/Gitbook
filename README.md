@@ -2,7 +2,7 @@
 
 ## Array
 1. 27 Remove Element ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-1. 59 Spiral Matrix II ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium`
+1. 59 Spiral Matrix II ![#FFA500](https://via.placeholder.com/15/#FFA500/000000?text=+) `Medium`
 1. 209 Minimum Size Subarray Sum ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium`
 
 ## Binary Search
@@ -111,9 +111,10 @@
 4. 134 Gas Station ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium`
 5. 135 Candy ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard`
 6. 376 Wiggle Subsequence ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-7. 435 Non-overlapping Intervals ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-8. 452 Minimum Number of Arrows to Burst Balloons ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
-9. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-10. 860 Lemonade Change ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-11. 1005 Maximize Sum Of Array After K Negations ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+7. 406 Queue Reconstruction by Height ![#FFA500](https://via.placeholder.com/15/#FFA500/000000?text=+) `Medium`
+8. 435 Non-overlapping Intervals ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+9. 452 Minimum Number of Arrows to Burst Balloons ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
+10. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+11. 860 Lemonade Change ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+12. 1005 Maximize Sum Of Array After K Negations ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
