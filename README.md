@@ -114,5 +114,6 @@
 7. 435 Non-overlapping Intervals ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 8. 452 Minimum Number of Arrows to Burst Balloons ![#eba134](https://via.placeholder.com/15/eba134/000000?text=+) `Medium` 
 9. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-10. 1005 Maximize Sum Of Array After K Negations ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+10. 860 Lemonade Change ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+11. 1005 Maximize Sum Of Array After K Negations ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
