@@ -2,7 +2,7 @@
 
 ## Array
 1. 27 Remove Element ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-1. 59 Spiral Matrix II ![#ffa500](https://via.placeholder.com/15/#ffa500/000000?text=+) `Medium`
+1. 59 Spiral Matrix II ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium`
 1. 209 Minimum Size Subarray Sum ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium`
 
 ## Binary Search
@@ -111,7 +111,7 @@
 4. 134 Gas Station ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium`
 5. 135 Candy ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard`
 6. 376 Wiggle Subsequence ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
-7. 406 Queue Reconstruction by Height ![#FFA500](https://via.placeholder.com/15/#FFA500/000000?text=+) `Medium`
+7. 406 Queue Reconstruction by Height ![#FFA500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium`
 8. 435 Non-overlapping Intervals ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
 9. 452 Minimum Number of Arrows to Burst Balloons ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
 10. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
