@@ -107,15 +107,16 @@
 ## Greedy Algorithm
 1. 45 Jump Game II ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
 2. 55 Jump Game ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
-3. 122 Best Time to Buy and Sell Stock II ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-4. 134 Gas Station ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium`
-5. 135 Candy ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard`
-6. 376 Wiggle Subsequence ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
-7. 406 Queue Reconstruction by Height ![#FFA500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium`
-8. 435 Non-overlapping Intervals ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
-9. 452 Minimum Number of Arrows to Burst Balloons ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
-10. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-11. 763. Partition Labels ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
-12. 860 Lemonade Change ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-13. 1005 Maximize Sum Of Array After K Negations ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+3. 56 Merge Intervals ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
+4. 122 Best Time to Buy and Sell Stock II ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+5. 134 Gas Station ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium`
+6. 135 Candy ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard`
+7. 376 Wiggle Subsequence ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
+8. 406 Queue Reconstruction by Height ![#FFA500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium`
+9. 435 Non-overlapping Intervals ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
+10. 452 Minimum Number of Arrows to Burst Balloons ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
+11. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+12. 763. Partition Labels ![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) `Medium` 
+13. 860 Lemonade Change ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+14. 1005 Maximize Sum Of Array After K Negations ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
