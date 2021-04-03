@@ -60,3 +60,33 @@ public:
         return result;
     }
 };
+
+class Solution {
+public:
+    int result = 0;
+    
+    int traverse(TreeNode* root) {
+        if(root == nullptr){
+            return 2;
+        }
+        
+        int left = traverse(root->left);
+        int right = traverse(root->right);
+        
+        if(left == 0 || right == 0){
+            result++;
+            return 1;
+        }        
+        else if(left == 2 && right == 2){
+            return 0;
+        }        
+        else return 2;        
+    }
+    
+    int minCameraCover(TreeNode* root) {
+        if(traverse(root) == 0){
+            result++;
+        }        
+        return result;
+    }
+};
