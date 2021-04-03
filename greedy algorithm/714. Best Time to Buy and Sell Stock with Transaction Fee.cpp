@@ -49,3 +49,34 @@ public:
         return result;
     }
 };
+
+// another similar solution
+class Solution {
+public:
+    int maxProfit(vector<int>& prices, int fee) {
+        int result = 0;
+        int minPrice = prices[0];
+        
+        for(int i = 0; i < prices.size(); i++){
+            if(prices[i] < minPrice) {
+                minPrice = prices[i];
+            }
+            
+            // more but not that more i.e. [5, 4], fee = 2
+            // 1st if statement will be false because 4 > 5 - 2, thus 2nd if statement check whether current price is between 3 and 5
+            // does not consider about buying, just don't sell because the current price is lower than the original minPrice.
+            // prices[i] >= minPrice &&  is not needed since it will be true if 1st statement is false
+            // then 2nd statement is to check whether the current price is more than original buying price.
+            // if it is more then add the difference to result, otherwise continue
+            if(prices[i] <= minPrice + fee){
+                continue;
+            }            
+            
+            result += prices[i] - minPrice - fee;
+            minPrice = prices[i] - fee;
+            
+        }
+        
+        return result;
+    }
+};
