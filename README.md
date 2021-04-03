@@ -118,7 +118,7 @@
 11. 455 Assign Cookies ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 12. 714 Best Time to Buy and Sell Stock with Transaction Fee ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium`
 13. 738 Monotone Increasing Digits ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium`
-14. 763. Partition Labels ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+14. 763 Partition Labels ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
 15. 860 Lemonade Change ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 16. 1005 Maximize Sum Of Array After K Negations ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
