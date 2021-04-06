@@ -97,15 +97,16 @@
 4. 70 Climbing Stairs ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
 5. 121 Best Time to Buy and Sell Stock ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
 6. 303 Range Sum Query - Immutable ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
-7. 338 Counting Bits ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-8. 392 Is Subsequence ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
-9. 435 Non-overlapping Intervals ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-10. 509 Fibonacci Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
-11. 746 Min Cost Climbing Stairs ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-12. 1143 Longest Common Subsequence ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-13. 1277 Count Square Submatrices with All Ones ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-14. 1314 Matrix Block Sum ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-15. 1641 Count Sorted Vowel Strings ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+7. 338 Counting Bits ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium`
+8. 343 Integer Break ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium`
+9. 392 Is Subsequence ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+10. 435 Non-overlapping Intervals ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+11. 509 Fibonacci Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+12. 746 Min Cost Climbing Stairs ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+13. 1143 Longest Common Subsequence ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+14. 1277 Count Square Submatrices with All Ones ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+15. 1314 Matrix Block Sum ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+16. 1641 Count Sorted Vowel Strings ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
 
 ## Greedy Algorithm
 1. 45 Jump Game II ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
