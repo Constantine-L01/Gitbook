@@ -105,10 +105,11 @@
 12. 435 Non-overlapping Intervals ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
 13. 509 Fibonacci Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
 14. 746 Min Cost Climbing Stairs ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-15. 1143 Longest Common Subsequence ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-16. 1277 Count Square Submatrices with All Ones ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-17. 1314 Matrix Block Sum ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-18. 1641 Count Sorted Vowel Strings ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+15. 1049 Last Stone Weight II ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+16. 1143 Longest Common Subsequence ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+17. 1277 Count Square Submatrices with All Ones ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+18. 1314 Matrix Block Sum ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+19. 1641 Count Sorted Vowel Strings ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
 
 ## Greedy Algorithm
 1. 45 Jump Game II ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
