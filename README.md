@@ -119,13 +119,14 @@
 26. 494 Target Sum ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
 27. 509 Fibonacci Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
 28. 518 Coin Change 2 ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-29. 714 Best Time to Buy and Sell Stock with Transaction Fee ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-30. 746 Min Cost Climbing Stairs ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-31. 1049 Last Stone Weight II ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-32. 1143 Longest Common Subsequence ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-33. 1277 Count Square Submatrices with All Ones ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-34. 1314 Matrix Block Sum ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
-35. 1641 Count Sorted Vowel Strings ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+29. 674 Longest Continuous Increasing Subsequence ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+30. 714 Best Time to Buy and Sell Stock with Transaction Fee ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+31. 746 Min Cost Climbing Stairs ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+32. 1049 Last Stone Weight II ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+33. 1143 Longest Common Subsequence ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+34. 1277 Count Square Submatrices with All Ones ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+35. 1314 Matrix Block Sum ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
+36. 1641 Count Sorted Vowel Strings ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
 
 ## Greedy Algorithm
 1. 45 Jump Game II ![#ff7f50](https://via.placeholder.com/15/ff7f50/000000?text=+) `Medium` 
