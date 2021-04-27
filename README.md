@@ -120,16 +120,17 @@
 27. 494 Target Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 28. 509 Fibonacci Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
 29. 518 Coin Change 2 ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
-30. 674 Longest Continuous Increasing Subsequence ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
-31. 714 Best Time to Buy and Sell Stock with Transaction Fee ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
-32. 718 Maximum Length of Repeated Subarray ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
-33. 746 Min Cost Climbing Stairs ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-34. 1035 Uncrossed Lines ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
-35. 1049 Last Stone Weight II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
-36. 1143 Longest Common Subsequence ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
-37. 1277 Count Square Submatrices with All Ones ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
-38. 1314 Matrix Block Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
-39. 1641 Count Sorted Vowel Strings ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+30. 583 Delete Operation for Two Strings ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+31. 674 Longest Continuous Increasing Subsequence ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
+32. 714 Best Time to Buy and Sell Stock with Transaction Fee ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+33. 718 Maximum Length of Repeated Subarray ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+34. 746 Min Cost Climbing Stairs ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+35. 1035 Uncrossed Lines ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+36. 1049 Last Stone Weight II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+37. 1143 Longest Common Subsequence ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+38. 1277 Count Square Submatrices with All Ones ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+39. 1314 Matrix Block Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+40. 1641 Count Sorted Vowel Strings ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 
 ## Greedy Algorithm
 1. 45 Jump Game II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
