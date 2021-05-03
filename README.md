@@ -8,6 +8,9 @@
 ## Binary Search
 1. 35 Search Insert Position ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
+## Design
+1. 146 LRU Cache ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+
 ## HashMap
 1. 1 Two Sum ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 2. 202 Happy Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
