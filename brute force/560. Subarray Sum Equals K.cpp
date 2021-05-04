@@ -32,3 +32,28 @@ public:
     }
 };
 
+// TTL
+class Solution {
+public:
+    int subarraySum(vector<int>& nums, int k) {
+        int count = 0;
+        for(int i = 1; i < nums.size(); i++){
+            nums[i] += nums[i - 1];
+        }
+        
+        for(int i = 0; i < nums.size(); i++){
+            // cover the cases where subarray starts at first element
+            if(nums[i] == k){
+                count++;
+            }
+            for(int j = i + 1; j < nums.size(); j++){
+                // since j is always larger than i, it will cover the case where one element is equal to k 
+                if(nums[j] - nums[i] == k){
+                    count++;
+                }
+            }
+        }
+        
+        return count;
+    }
+};
