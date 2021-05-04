@@ -74,6 +74,9 @@
 1. 450 Delete Node in a BST ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 2. 701 Insert into a Binary Search Tree ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
+## Brute Force
+1. 560 Subarray Sum Equals K ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+
 ## Breath First Search
 1. 111 Minimum Depth of Binary Tree ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
 
