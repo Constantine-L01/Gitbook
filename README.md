@@ -16,12 +16,13 @@
 2. 3 Longest Substring Without Repeating Characters ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 3. 36 Valid Sudoku ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 4. 49 Group Anagrams ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-5. 202 Happy Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-6. 242 Valid Anagram ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-7. 349 Intersection of Two Arrays ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-8. 383 Ransom Note ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-9. 454 4Sum II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-10. 560 Subarray Sum Equals K ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+5. 136 Single Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+6. 202 Happy Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+7. 242 Valid Anagram ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+8. 349 Intersection of Two Arrays ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+9. 383 Ransom Note ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+10. 454 4Sum II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+11. 560 Subarray Sum Equals K ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
 ## Two Pointers
 1. 15 3Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
