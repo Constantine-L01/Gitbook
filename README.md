@@ -8,50 +8,8 @@
 ## Binary Search
 1. 35 Search Insert Position ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
-## Design
-1. 146 LRU Cache ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-
-## HashMap
-1. 1 Two Sum ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-2. 3 Longest Substring Without Repeating Characters ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-3. 36 Valid Sudoku ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-4. 49 Group Anagrams ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-5. 136 Single Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-6. 202 Happy Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-7. 242 Valid Anagram ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-8. 349 Intersection of Two Arrays ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-9. 383 Ransom Note ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-10. 454 4Sum II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-11. 560 Subarray Sum Equals K ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-
-## Two Pointers
-1. 15 3Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-1. 18 4Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-1. 344 Reverse String ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-
-## Stack
-1. 20 Valid Parentheses ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-2. 150 Evaluate Reverse Polish Notation ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-3. 239 Sliding Window Maximum ![#FF0000](https://via.placeholder.com/15/ff0000/000000?text=+) `Hard`
-4. 347 Top K Frequent Elements ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-5. 1047 Remove All Adjacent Duplicates In String ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-6. 1209 Remove All Adjacent Duplicates in String II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-
-## String
-1. 28 Implement strStr() ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-2. 151 Reverse Words in a String ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-3. 459 Repeated Substring Pattern ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-4. 541 Reverse String II ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
- 
-## Sort
-1. 1288 Remove Covered Intervals ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-
-## Linked List
-1. 92 Reverse Linked List II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-2. 142 Linked List Cycle II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-3. 203 Remove Linked List Elements ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-4. 206 Reverse Linked List ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-5. 707 Design Linked List ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+## Bit Manipulation
+1. 136 Single Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
 ## Binary Tree
 1. 94 Binary Tree Inorder Traversal ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
@@ -84,12 +42,6 @@
 ## Breath First Search
 1. 111 Minimum Depth of Binary Tree ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
 
-## Depth First Search
-1. 130. Surrounded Regions ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-
-## Union Find
-1. 130 Surrounded Regions ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-
 ## Backtracking
 1. 17 Letter Combinations of a Phone Number ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 2. 37 Sudoku Solver ![#FF0000](https://via.placeholder.com/15/ff0000/000000?text=+) `Hard`
@@ -106,6 +58,12 @@
 13. 216 Combination Sum III ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 14. 332 Reconstruct Itinerary ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 15. 491 Increasing Subsequences ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+
+## Design
+1. 146 LRU Cache ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+
+## Depth First Search
+1. 130. Surrounded Regions ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
 ##  Dynamic Programming
 1. 53 Maximum Subarray ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
@@ -171,3 +129,47 @@
 16. 968 Binary Tree Cameras ![#FF0000](https://via.placeholder.com/15/ff0000/000000?text=+) `Hard`
 17. 1005 Maximize Sum Of Array After K Negations ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
+## HashMap
+1. 1 Two Sum ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+2. 3 Longest Substring Without Repeating Characters ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+3. 36 Valid Sudoku ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+4. 49 Group Anagrams ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+5. 136 Single Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+6. 202 Happy Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+7. 242 Valid Anagram ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+8. 349 Intersection of Two Arrays ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+9. 383 Ransom Note ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+10. 454 4Sum II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+11. 560 Subarray Sum Equals K ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+
+## Linked List
+1. 92 Reverse Linked List II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+2. 142 Linked List Cycle II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+3. 203 Remove Linked List Elements ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+4. 206 Reverse Linked List ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+5. 707 Design Linked List ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+
+## Stack
+1. 20 Valid Parentheses ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+2. 150 Evaluate Reverse Polish Notation ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+3. 239 Sliding Window Maximum ![#FF0000](https://via.placeholder.com/15/ff0000/000000?text=+) `Hard`
+4. 347 Top K Frequent Elements ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+5. 1047 Remove All Adjacent Duplicates In String ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+6. 1209 Remove All Adjacent Duplicates in String II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+
+## String
+1. 28 Implement strStr() ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+2. 151 Reverse Words in a String ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+3. 459 Repeated Substring Pattern ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+4. 541 Reverse String II ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+ 
+## Sort
+1. 1288 Remove Covered Intervals ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+
+## Two Pointers
+1. 15 3Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+1. 18 4Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+1. 344 Reverse String ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+
+## Union Find
+1. 130 Surrounded Regions ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
