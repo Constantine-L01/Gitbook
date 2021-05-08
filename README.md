@@ -135,12 +135,13 @@
 3. 36 Valid Sudoku ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 4. 49 Group Anagrams ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 5. 136 Single Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-6. 202 Happy Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-7. 242 Valid Anagram ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-8. 349 Intersection of Two Arrays ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-9. 383 Ransom Note ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-10. 454 4Sum II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-11. 560 Subarray Sum Equals K ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+6. 138 Copy List with Random Pointer ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+7. 202 Happy Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+8. 242 Valid Anagram ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+9. 349 Intersection of Two Arrays ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+10. 383 Ransom Note ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+11. 454 4Sum II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+12. 560 Subarray Sum Equals K ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
 ## Linked List
 1. 92 Reverse Linked List II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
