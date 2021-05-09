@@ -146,9 +146,10 @@
 ## Linked List
 1. 92 Reverse Linked List II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 2. 142 Linked List Cycle II ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-3. 203 Remove Linked List Elements ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-4. 206 Reverse Linked List ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
-5. 707 Design Linked List ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+3. 138 Copy List with Random Pointer ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+4. 203 Remove Linked List Elements ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+5. 206 Reverse Linked List ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+6. 707 Design Linked List ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
 ## Stack
 1. 20 Valid Parentheses ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
