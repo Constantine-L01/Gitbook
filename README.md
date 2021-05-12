@@ -7,7 +7,8 @@
 
 ## Binary Search
 1. 33 Search in Rotated Sorted Array ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-2. 35 Search Insert Position ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+2. 34 Find First and Last Position of Element in Sorted Array ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+3. 35 Search Insert Position ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
 
 ## Bit Manipulation
 1. 136 Single Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
