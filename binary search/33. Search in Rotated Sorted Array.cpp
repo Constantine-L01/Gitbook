@@ -23,7 +23,8 @@ public:
                 num = nums[mid];
             }
             else {
-                if(target < nums[0]){
+                // could be nums[0] or nums[mid]
+                if(target < nums[mid]){
                     num = INT_MIN; 
                 }
                 else {
