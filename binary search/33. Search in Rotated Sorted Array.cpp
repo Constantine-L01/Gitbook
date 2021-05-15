@@ -46,3 +46,43 @@ public:
         return -1;
     }
 };
+
+// first binary search finds the starting position, second binary search find the target element and accounting for rotation.
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int lo = 0, hi = nums.size() - 1;
+        
+        while(lo < hi){
+            int mid = lo + ((hi - lo) >> 1);
+            if(nums[mid] > nums[hi]){
+                lo = mid + 1;
+            }
+            else if(nums[mid] <= nums[hi]){
+                hi = mid;
+            }
+            else {
+                cout << "unexpected case";
+            }            
+        }
+        
+        int start = lo;
+        lo = 0, hi = nums.size();
+        
+        while(lo < hi){
+            int mid = lo + ((hi - lo) >> 1);
+            int realMid = (mid + start) % nums.size();
+            if(nums[realMid] == target){
+                return realMid;
+            }
+            else if(nums[realMid] < target){
+                lo = mid + 1;
+            }
+            else if(nums[realMid] > target){
+                hi = mid;
+            }
+        }
+        
+        return -1;
+    }
+};
