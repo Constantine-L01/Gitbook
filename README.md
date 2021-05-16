@@ -13,6 +13,7 @@
 
 ## Bit Manipulation
 1. 136 Single Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
+2. 187 Repeated DNA Sequences ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
 ## Binary Tree
 1. 94 Binary Tree Inorder Traversal ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
