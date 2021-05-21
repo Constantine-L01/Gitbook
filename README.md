@@ -1,4 +1,4 @@
-# leetcode
+# Leetcode
 
 ## Array
 1. 27 Remove Element ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
