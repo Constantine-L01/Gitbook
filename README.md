@@ -171,7 +171,8 @@
 4. 541 Reverse String II ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy`
  
 ## Sort
-1. 1288 Remove Covered Intervals ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+1. 57 Insert Interval ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+2. 1288 Remove Covered Intervals ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
 ## Two Pointers
 1. 11 Container With Most Water ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
