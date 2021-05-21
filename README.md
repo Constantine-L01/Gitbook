@@ -28,7 +28,7 @@
 9. 116 Populating Next Right Pointers in Each Node ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 10. 144 Binary Tree Preorder Traversal ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 11. 145 Binary Tree Postorder Traversal ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
-12. 199. Binary Tree Right Side View ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+12. 199 Binary Tree Right Side View ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 13. 226 Invert Binary Tree ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
 14. 297 Serialize and Deserialize Binary Tree ![#FF0000](https://via.placeholder.com/15/ff0000/000000?text=+) `Hard`
 15. 429 N-ary Tree Level Order Traversal ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
@@ -68,7 +68,7 @@
 1. 146 LRU Cache ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
 ## Depth First Search
-1. 130. Surrounded Regions ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
+1. 130 Surrounded Regions ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 
 ##  Dynamic Programming
 1. 53 Maximum Subarray ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
@@ -100,7 +100,7 @@
 27. 474 Ones and Zeroes ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 28. 494 Target Sum ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 29. 509 Fibonacci Number ![#34eb49](https://via.placeholder.com/15/34eb49/000000?text=+) `Easy` 
-30. 516. Longest Palindromic Subsequence ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
+30. 516 Longest Palindromic Subsequence ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 31. 518 Coin Change 2 ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium` 
 32. 583 Delete Operation for Two Strings ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
 33. 647 Palindromic Substrings ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `Medium`
