@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Frozen Throne](README.md)
-* [linked list](linked-list/README.md)
-  
-
 * [Leetcode](leetcode.md)
   * [Linked List](Leetcode/linked-list/README.md)
     * [138. Copy List with Random Pointer](Leetcode/linked-list/138.-copy-list-with-random-pointer.md)
