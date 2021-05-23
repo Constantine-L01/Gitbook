@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Frozen Throne](README.md)
 * [linked list](linked-list/README.md)
   * [138. Copy List with Random Pointer](linked-list/138.-copy-list-with-random-pointer.md)
   * [203. Remove Linked List Elements](linked-list/203.-remove-linked-list-elements.md)
