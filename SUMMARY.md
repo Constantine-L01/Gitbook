@@ -9,7 +9,7 @@
   * [11. Container With Most Water](two-pointers/11.-container-with-most-water.md)
   * [16. 3Sum Closest](two-pointers/16.-3sum-closest.md)
 * [Leetcode](leetcode.md)
-  * [Linked List](Leetcode/linked-list)
+  * [Linked List](Leetcode/linked-list/README.md)
 * [sort](sort/README.md)
   * [57. Insert Interval](sort/57.-insert-interval.md)
 
