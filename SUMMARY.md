@@ -3,6 +3,7 @@
 * [Frozen Throne](README.md)
 * [Leetcode](Leetcode/README.md)
   * [Linked List](Leetcode/linked-list/README.md)
+    * [92. Reverse Linked List II](Leetcode/linked-list/92.-reverse-linked-list-II.md)
     * [138. Copy List with Random Pointer](Leetcode/linked-list/138.-copy-list-with-random-pointer.md)
     * [142. Linked List Cycle II](Leetcode/linked-list/142.-linked-list-cycle-ii.md) 
     * [203. Remove Linked List Elements](Leetcode/linked-list/203.-remove-linked-list-elements.md)
