@@ -14,4 +14,5 @@
     * [16. 3Sum Closest](leetcode/two-pointers/16.-3sum-closest.md)
   * [Sort](leetcode/sort/README.md)
     * [57. Insert Interval](leetcode/sort/57.-insert-interval.md)
+    * [1288 Remove Covered Intervals](leetcode/sort/1288.-remove-covered-intervals.md)
 
