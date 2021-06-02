@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Leetcode](leetcode/README.md)
-    * [Array](leetcode/array/README.md)
+## [Leetcode](leetcode/README.md)
+   * [Array](leetcode/array/README.md)
         * [27. Remove Element](leetcode/array/27.-remove-element.md)
    * [Linked List](leetcode/linked-list/README.md)   
         * [92. Reverse Linked List II](leetcode/linked-list/92.-reverse-linked-list-ii.md)
