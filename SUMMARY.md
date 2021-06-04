@@ -4,6 +4,8 @@
    * [Array](leetcode/array/README.md)
         * [27. Remove Element](leetcode/array/27.-remove-element.md)
         * [59. Spiral Matrix II](leetcode/array/59.-spiral-matrix-II.md)
+   * [Greedy Algorithm](leetcode/greedy-algorithm/README.md)
+        * [209. Minimum Size Subarray Sum](leetcode/greedy-algorithm/209.-minimum-size-subarray-sum.md)
    * [Linked List](leetcode/linked-list/README.md)   
         * [92. Reverse Linked List II](leetcode/linked-list/92.-reverse-linked-list-ii.md)
         * [138. Copy List with Random Pointer](leetcode/linked-list/138.-copy-list-with-random-pointer.md)
@@ -19,4 +21,3 @@
         * [1288. Remove Covered Intervals](leetcode/sort/1288.-remove-covered-intervals.md)
    * [Stack](leetcode/stack/README.md)
         * [20. Valid Parentheses](leetcode/stack/20.-valid-parentheses.md)
-
