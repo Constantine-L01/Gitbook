@@ -6,6 +6,8 @@
         * [59. Spiral Matrix II](leetcode/array/59.-spiral-matrix-II.md)
    * [Greedy Algorithm](leetcode/greedy-algorithm/README.md)
         * [209. Minimum Size Subarray Sum](leetcode/greedy-algorithm/209.-minimum-size-subarray-sum.md)
+   * [Hashmap](leetcode/hashmap/README.md)
+        * [1. Two Sum](leetcode/hashmap/1.-two-sum.md)
    * [Linked List](leetcode/linked-list/README.md)   
         * [92. Reverse Linked List II](leetcode/linked-list/92.-reverse-linked-list-ii.md)
         * [138. Copy List with Random Pointer](leetcode/linked-list/138.-copy-list-with-random-pointer.md)
