@@ -4,6 +4,8 @@
    * [Array](leetcode/array/README.md)
         * [27. Remove Element](leetcode/array/27.-remove-element.md)
         * [59. Spiral Matrix II](leetcode/array/59.-spiral-matrix-II.md)
+   * [Binary Tree](leetcode/binary-tree/README.md)
+        * [94. Binary Tree Inorder Traversal](leetcode/binary-tree/94.-binary-tree-inorder-traversal.md)
    * [Greedy Algorithm](leetcode/greedy-algorithm/README.md)
         * [209. Minimum Size Subarray Sum](leetcode/greedy-algorithm/209.-minimum-size-subarray-sum.md)
    * [Hashmap](leetcode/hashmap/README.md)
