@@ -11,6 +11,7 @@
    * [Hashmap](leetcode/hashmap/README.md)
         * [1. Two Sum](leetcode/hashmap/1.-two-sum.md)
         * [205. Isomorphic Strings](leetcode/hashmap/205.-isomorphic-strings.md)
+        * [217. Contains Duplicate](leetcode/hashmap/217.-contains-duplicate.md)
    * [Linked List](leetcode/linked-list/README.md)   
         * [92. Reverse Linked List II](leetcode/linked-list/92.-reverse-linked-list-ii.md)
         * [138. Copy List with Random Pointer](leetcode/linked-list/138.-copy-list-with-random-pointer.md)
