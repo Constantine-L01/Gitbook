@@ -14,6 +14,7 @@
         * [217. Contains Duplicate](leetcode/hashmap/217.-contains-duplicate.md)
         * [219. Contains Duplicate II](leetcode/hashmap/219.-contains-duplicate-II.md)
         * [290. Word Pattern](leetcode/hashmap/290.-word-pattern.md)
+        * [350. Intersection of Two Arrays II](leetcode/hashmap/350.-intersection-of-two-arrays-II.md)
    * [Linked List](leetcode/linked-list/README.md)   
         * [92. Reverse Linked List II](leetcode/linked-list/92.-reverse-linked-list-ii.md)
         * [138. Copy List with Random Pointer](leetcode/linked-list/138.-copy-list-with-random-pointer.md)
