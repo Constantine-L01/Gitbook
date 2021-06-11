@@ -1,8 +1,8 @@
 # Table of contents
 
 ## [Programming Language](programming-language/README.md)
-* [Java](java/README.md)
-    * [Comparator](java/comparator.md)
+* [Java](programming-language/java/README.md)
+    * [Comparator](programming-language/java/comparator.md)
 
 ## [Leetcode](leetcode/README.md)
 * [Array](leetcode/array/README.md)
