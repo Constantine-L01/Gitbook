@@ -1,3 +1,5 @@
+# Comparator
+
 *(Source: https://stackoverflow.com/questions/6478515/return-type-from-a-comparator/6478538)*
 
 If the default behavior of a sorting algorithm based on the return value of a comparator is:
