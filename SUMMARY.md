@@ -32,5 +32,6 @@
         * [20. Valid Parentheses](leetcode/stack/20.-valid-parentheses.md)
    * [Sliding Window](leetcode/sliding-window/README.md)
         * [209 Minimum Size Subarray Sum](leetcode/sliding-window/209.-minimum-size-subarray-sum.md)
-## [Java](java/README.md)
-   * [Comparator](/java/comparator.md)
+ ## [Java](java/README.md)
+   * [Comparator](java/comparator.md)
+        * [Comparator](java/comparator.md)
