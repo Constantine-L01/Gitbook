@@ -3,7 +3,9 @@
 ## [Programming Language](programming-language/README.md)
 * [Java](programming-language/java/README.md)
     * [Comparator](programming-language/java/comparator.md)
-
+* [C++](programming-language/c++/README.md)
+    * [Comparator](programming-language/c++/comparator.md)
+    
 ## [Leetcode](leetcode/README.md)
 * [Array](leetcode/array/README.md)
     * [27. Remove Element](leetcode/array/27.-remove-element.md)
