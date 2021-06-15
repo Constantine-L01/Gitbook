@@ -43,6 +43,8 @@
     * [707. Design Linked List](leetcode/linked-list/707.-design-linked-list.md) 
 * [Priority Queue](leetcode/priority-queue/README.md)
     * [451. Sort Characters By Frequency](leetcode/priority-queue/451.-sort-characters-by-frequency.md)
+* [Prefix Sum](leetcode/prefix-sum/README.md)
+    * [525.Contiguous Array](leetcode/prefix-sum/525.-contiguous-array.md)
 * [Sort](leetcode/sort/README.md)
     * [57. Insert Interval](leetcode/sort/57.-insert-interval.md)
     * [1288. Remove Covered Intervals](leetcode/sort/1288.-remove-covered-intervals.md)
