@@ -27,6 +27,7 @@
 * [Hashmap](leetcode/hashmap/README.md)
     * [1. Two Sum](leetcode/hashmap/1.-two-sum.md)
     * [136. Single Number](leetcode/hashmap/136.-single-number.md)
+    * [202. Happy Number](leetcode/hashmap/202.-happy-number.md)
     * [205. Isomorphic Strings](leetcode/hashmap/205.-isomorphic-strings.md)
     * [217. Contains Duplicate](leetcode/hashmap/217.-contains-duplicate.md)
     * [219. Contains Duplicate II](leetcode/hashmap/219.-contains-duplicate-II.md)
