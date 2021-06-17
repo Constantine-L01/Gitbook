@@ -26,6 +26,7 @@
     * [1893. Check if All the Integers in a Range Are Covered](leetcode/greedy-algorithm/1893.-check-if-all-the-integers-in-a-range-are-covered.md)
 * [Hashmap](leetcode/hashmap/README.md)
     * [1. Two Sum](leetcode/hashmap/1.-two-sum.md)
+    * [49. Group Anagrams](leetcode/hashmap/49.-group-anagrams.md)
     * [136. Single Number](leetcode/hashmap/136.-single-number.md)
     * [202. Happy Number](leetcode/hashmap/202.-happy-number.md)
     * [205. Isomorphic Strings](leetcode/hashmap/205.-isomorphic-strings.md)
