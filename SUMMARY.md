@@ -54,6 +54,7 @@
 * [Mark and Sweep](leetcode/mark-and-sweep/README.md)
     * [645. Set Mismatch](leetcode/mark-and-sweep/645.-set-mismatch.md)
 * [Priority Queue](leetcode/priority-queue/README.md)
+    * [23. Merge K Sorted Lists](leetcode/priority-queue/23.-merge-k-sorted-lists.md)
     * [451. Sort Characters By Frequency](leetcode/priority-queue/451.-sort-characters-by-frequency.md)
 * [Prefix Sum](leetcode/prefix-sum/README.md)
     * [525.Contiguous Array](leetcode/prefix-sum/525.-contiguous-array.md)
