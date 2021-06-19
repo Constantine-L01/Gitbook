@@ -56,6 +56,7 @@
 * [Priority Queue](leetcode/priority-queue/README.md)
     * [23. Merge K Sorted Lists](leetcode/priority-queue/23.-merge-k-sorted-lists.md)
     * [451. Sort Characters By Frequency](leetcode/priority-queue/451.-sort-characters-by-frequency.md)
+    * [632. Smallest Range Covering Elements From K Lists](leetcode/priority-queue/632.-smallest-range-covering-elements-from-k-lists.md)
 * [Prefix Sum](leetcode/prefix-sum/README.md)
     * [525.Contiguous Array](leetcode/prefix-sum/525.-contiguous-array.md)
     * [554. Brick Wall](leetcode/prefix-sum/554.-brick-wall.md)
