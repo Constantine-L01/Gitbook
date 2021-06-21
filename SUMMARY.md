@@ -19,6 +19,8 @@
     * [389. Find the Difference](leetcode/bit-operation/389.-find-the-difference.md)
     * [500. Keyboard Row](leetcode/bit-operation/500.-keyboard-row.md)
     * [645. Set Mismatch](leetcode/bit-operation/645.-set-mismatch.md)
+* [Fast Slow Pointer](leetcode/fast-slow-pointer/README.md)
+    * [19. Remove Nth Node From End Of List](leetcode/fast-slow-pointer/19.-remove-nth-node-from-end-of-list.md)
 * [Greedy Algorithm](leetcode/greedy-algorithm/README.md)
     * [209. Minimum Size Subarray Sum](leetcode/greedy-algorithm/209.-minimum-size-subarray-sum.md)
     * [463. Island Perimeter](leetcode/greedy-algorithm/463.-island-perimeter.md)
