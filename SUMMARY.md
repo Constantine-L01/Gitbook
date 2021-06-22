@@ -47,6 +47,7 @@
     * [645. Set Mismatch](leetcode/hashmap/645.-set-mismatch.md)
     * [1893. Check if All the Integers in a Range Are Covered](leetcode/hashmap/1893.-check-if-all-the-integers-in-a-range-are-covered.md)
 * [Linked List](leetcode/linked-list/README.md)   
+    * [2. Add Two Numbers](leetcode/linked-list/2.-add-two-numbers.md)
     * [92. Reverse Linked List II](leetcode/linked-list/92.-reverse-linked-list-ii.md)
     * [138. Copy List with Random Pointer](leetcode/linked-list/138.-copy-list-with-random-pointer.md)
     * [142. Linked List Cycle II](leetcode/linked-list/142.-linked-list-cycle-ii.md)
