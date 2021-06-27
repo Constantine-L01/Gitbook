@@ -53,6 +53,7 @@
     * [24. Swap Nodes In Pairs](leetcode/linked-list/24.-swap-nodes-in-pairs.md)
     * [82. Remove Duplicates From Sorted List II](leetcode/linked-list/82.-remove-duplicates-from-sorted-list-II.md)
     * [83. Remove Duplicates from Sorted List](leetcode/linked-list/83.-remove-duplicates-from-sorted-list.md)
+    * [86. Partition List](leetcode/linked-list/86.-partition-list.md)
     * [92. Reverse Linked List II](leetcode/linked-list/92.-reverse-linked-list-ii.md)    
     * [138. Copy List with Random Pointer](leetcode/linked-list/138.-copy-list-with-random-pointer.md)
     * [142. Linked List Cycle II](leetcode/linked-list/142.-linked-list-cycle-ii.md)
