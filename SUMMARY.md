@@ -84,6 +84,7 @@
     * [1288. Remove Covered Intervals](leetcode/sort/1288.-remove-covered-intervals.md)
 * [Stack](leetcode/stack/README.md)
     * [20. Valid Parentheses](leetcode/stack/20.-valid-parentheses.md)
+    * [143. Reorder List](leetcode/stack/143.-reorder-list.md)
 * [Sliding Window](leetcode/sliding-window/README.md)
     * [3. Longest Substring Without Repeating Characters](leetcode/sliding-window/3.-longest-substring-without-repeating-characters.md)
     * [209. Minimum Size Subarray Sum](leetcode/sliding-window/209.-minimum-size-subarray-sum.md)
