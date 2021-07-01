@@ -95,3 +95,5 @@
 ## [Codility](codility/README.md)
 * [Lesson 4](codility/lesson-4/README.md)
     * [PermCheck](codility/lesson-4/perm-check.md)
+* [Lesson 5](codility/lesson-5/README.md)
+    * [CountDiv](codility/lesson-5/CountDiv.md)
