@@ -6,7 +6,8 @@
 
 ![](images/002.jpg)
 
-![](images/quantum-computing-and-security-2.jpg)
+![](images/image_part_003.jpg)
+![](images/image_part_004.jpg)
 
 ![](images/quantum-computing-and-security-3.jpg)
 
