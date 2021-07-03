@@ -99,4 +99,4 @@
     * [CountDiv](codility/lesson-5/CountDiv.md)
 
 ## [TNE30009 Network Security And Resilience](TNE30009-Network-Security-And-Resilience/README.md)
-* [Major Assessment](TNE30009-Network-Security-And-Resilience/Quantum-computing-and-security(Major-assessment).md)
+* [Major Assessment](TNE30009-Network-Security-And-Resilience/quantum-computing-and-security.md)
