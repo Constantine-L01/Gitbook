@@ -1,6 +1,6 @@
 # Research Paper for Major Assessment
 
-<img src="images/quantum-computing-and-security-1.jpg" width="1200" />
+<img src="images/quantum-computing-and-security-1.jpg" max-width="200%" />
 
 ![](images/quantum-computing-and-security-2.jpg)
 
