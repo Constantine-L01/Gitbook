@@ -2,15 +2,17 @@
 
 * [Link to PDF](documents/quantum-computing-and-security.pdf) 
 
-![](images/001.jpg)
-
-![](images/002.jpg)
+![](images/image_part_001.jpg)
+![](images/image_part_002.jpg)
 
 ![](images/image_part_003.jpg)
 ![](images/image_part_004.jpg)
 
-![](images/quantum-computing-and-security-3.jpg)
+![](images/image_part_005.jpg)
+![](images/image_part_006.jpg)
 
-![](images/quantum-computing-and-security-4.jpg)
+![](images/image_part_007.jpg)
+![](images/image_part_008.jpg)
 
-![](images/quantum-computing-and-security-5.jpg)
+![](images/image_part_009.jpg)
+![](images/image_part_010.jpg)
