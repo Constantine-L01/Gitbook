@@ -100,3 +100,6 @@
 
 ## [TNE30009 Network Security And Resilience](TNE30009-Network-Security-And-Resilience/README.md)
 * [Major Assessment](TNE30009-Network-Security-And-Resilience/quantum-computing-and-security.md)
+
+## [COS20019 Cloud Computing Architecture](COS20019-Cloud-Computing-Architecture/README.md)
+* [Assignment 3](COS20019-Cloud-Computing-Architecture/assignment3.md)
