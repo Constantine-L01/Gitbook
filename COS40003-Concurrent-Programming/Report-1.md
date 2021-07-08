@@ -1,6 +1,6 @@
 # Report 1
 
-* [Link to PDF](documents/Report-1.pdf) 
+* [Link to PDF](documents/report-1.pdf) 
 
 ![](images/Report-1-01.jpg)
 #
