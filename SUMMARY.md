@@ -103,3 +103,6 @@
 
 ## [COS20019 Cloud Computing Architecture](COS20019-Cloud-Computing-Architecture/README.md)
 * [Assignment 3](COS20019-Cloud-Computing-Architecture/assignment3.md)
+
+## [COS40003 Concurrent Programming](COS40003-Concurrent-Programming/README.md)
+* [Report 1](COS40003-Concurrent-Programming/Report-1.md)
