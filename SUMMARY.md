@@ -19,6 +19,8 @@
     * [389. Find the Difference](leetcode/bit-operation/389.-find-the-difference.md)
     * [500. Keyboard Row](leetcode/bit-operation/500.-keyboard-row.md)
     * [645. Set Mismatch](leetcode/bit-operation/645.-set-mismatch.md)
+* [Dynamic Programming](leetcode/dynamic-programming/README.md)
+    * [53. Maximum Subarray](leetcode/dynamic-programming/53.-maximum-subarray.md)
 * [Fast Slow Pointer](leetcode/fast-slow-pointer/README.md)
     * [19. Remove Nth Node From End Of List](leetcode/fast-slow-pointer/19.-remove-nth-node-from-end-of-list.md)
     * [82. Remove Duplicates From Sorted List II](leetcode/fast-slow-pointer/82.-remove-duplicates-from-sorted-list-II.md)
