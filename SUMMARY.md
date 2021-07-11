@@ -6,7 +6,9 @@
 * [C++](programming-language/c++/README.md)
     * [Comparator](programming-language/c++/comparator.md)
     * [Lambda Expression](programming-language/c++/lambda-expressions.md)
-    
+* [General](programming-language/general/README.md)
+    * [Parameter VS Argument](programming-language/general/parameter-vs-argument.md)
+
 ## [Leetcode](leetcode/README.md)
 * [Array](leetcode/array/README.md)
     * [27. Remove Element](leetcode/array/27.-remove-element.md)
