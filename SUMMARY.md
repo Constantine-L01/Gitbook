@@ -8,7 +8,9 @@
     * [Lambda Expression](programming-language/c++/lambda-expressions.md)
 * [General](programming-language/general/README.md)
     * [Parameter VS Argument](programming-language/general/parameter-vs-argument.md)
-
+* [Git](git/README.md)
+    * [How to Remove Last Commit on GitHub without Trace](git/remove-last-commit-without-trace.md)
+    
 ## [Leetcode](leetcode/README.md)
 * [Array](leetcode/array/README.md)
     * [27. Remove Element](leetcode/array/27.-remove-element.md)
