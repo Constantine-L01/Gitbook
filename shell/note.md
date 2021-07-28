@@ -18,16 +18,14 @@ PC ID: u82z01s01
 
 * ex01
 
-// Must change size before remove write permission.
-1) dd if=/dev/zero of=testShell00 bs=40 count=1
-// change timestamp of file. 
-3) touch -a -m -t 202106012342 testShell00
-4) remove all permissions first: chmod -w testShell00, chmod -r testShell00
-5) chmod u+r testShell00
-6) chmod g+r testShell00
-7) chmod g+x testShell00
-8) chmod o+r testShell00
-9) chmod o+x testShell00
+1) dd if=/dev/zero of=testShell00 bs=40 count=1 // Must change size before remove write permission.
+2) touch -a -m -t 202106012342 testShell00 // change timestamp of file. 
+3) remove all permissions first: chmod -w testShell00, chmod -r testShell00
+4) chmod u+r testShell00
+5) chmod g+r testShell00
+6) chmod g+x testShell00
+7) chmod o+r testShell00
+8) chmod o+x testShell00
 
 * ex02
 
@@ -60,6 +58,36 @@ PC ID: u82z01s01
 
 1) kinit -l "999d" //https://web.mit.edu/kerberos/krb5-1.12/doc/basic/date_format.html#duration, https://www.ibm.com/docs/en/was-nd/9.0.5?topic=server-creating-kerberos-configuration-file
 2) klist > klist.txt
+
+* ex04
+
+1) ls -pmUt
+
+*(Source: MAN LS)*
+
+-p: Write a slash ("/") after each filename if that file is a directory.
+-m: Stream output format; list files across the page, separated by commas.
+-U: Use time of file creation, instead of last modification for sorting (-t) or long output (-l).
+-t: Sort by time modified (most recently modified first) before sorting the operands by lexicographical order.
+
+* ex05
+
+#!/bin/sh
+git log -5 --pretty=%H
+
+* ex06
+
+1) git check-ignore * .
+
+
+
+
+
+
+
+
+
+
 
 
 
