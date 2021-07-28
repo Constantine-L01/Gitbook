@@ -79,16 +79,29 @@ git log -5 --pretty=%H
 
 1) git check-ignore * .
 
+* ex07
 
+*(Source: https://www.thegeekstuff.com/2014/12/patch-command-examples/)*
+*(Source: https://opensource.com/article/19/8/moving-files-linux-depth)*
 
+1) Drag the tar from intra net directly into guacamole.
+2) Unzip the tar and get a and sw.diff.
+3) Patch a with "patch < sw.diff".
+4) Enter the file to be patched as "a".
+5) Rename a to b. 
 
+* ex08
 
+*(Source: https://stackoverflow.com/questions/26796729/quickly-create-a-large-file-on-a-mac-os-x-system)*
 
+1) find . -type f \( -name  "*~" -o -name "#*#" \) -print -delete
 
+* ex09
 
+*(Source: https://www.ibm.com/docs/en/zos/2.2.0?topic=formats-magic-format-etcmagic-file)*
+*(Source: https://unix.stackexchange.com/questions/393288/explain-please-what-is-a-magic-file-in-unix)
 
-
-
+1) 41 string 42 42 file // skip 41 units, the type of the indicator at 42 unit is string, and print "42 file" if matched. 
 
 
 ---
