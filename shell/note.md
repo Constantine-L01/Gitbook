@@ -77,7 +77,7 @@ git log -5 --pretty=%H
 
 * ex06
 
-1) git check-ignore * .
+1) git ls-files -o --ignored --exclude-standard
 
 * ex07
 
