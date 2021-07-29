@@ -29,6 +29,8 @@ PC ID: u91z03s02
 
 * ex02
 
+tar -xf filename // unzip tar file.
+
 ### o2 but not 02.
 
 1) mkdir test0
