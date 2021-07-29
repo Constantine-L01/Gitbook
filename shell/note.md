@@ -1,6 +1,6 @@
 # Note
 
-PC ID: u82z01s01
+PC ID: u91z03s02
 
 *Source*
 
@@ -82,6 +82,7 @@ git log -5 --pretty=%H
 * ex07
 
 *(Source: https://www.thegeekstuff.com/2014/12/patch-command-examples/)*
+
 *(Source: https://opensource.com/article/19/8/moving-files-linux-depth)*
 
 1) Drag the tar from intra net directly into guacamole.
@@ -99,11 +100,10 @@ git log -5 --pretty=%H
 * ex09
 
 *(Source: https://www.ibm.com/docs/en/zos/2.2.0?topic=formats-magic-format-etcmagic-file)*
-*(Source: https://unix.stackexchange.com/questions/393288/explain-please-what-is-a-magic-file-in-unix)
+
+*(Source: https://unix.stackexchange.com/questions/393288/explain-please-what-is-a-magic-file-in-unix)*
 
 1) 41 string 42 42 file // skip 41 units, the type of the indicator at 42 unit is string, and print "42 file" if matched. 
 
 
----
-If you want to use U, you have to use T first. 
-U sort by creation time.
+
