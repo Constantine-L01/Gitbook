@@ -29,6 +29,8 @@ PC ID: u91z03s02
 
 * ex02
 
+### o2 but not 02.
+
 1) mkdir test0
 2) head -c 4 /dev/zero > test1
 3) mkdir test1
@@ -94,6 +96,8 @@ git log -5 --pretty=%H
 * ex08
 
 *(Source: https://stackoverflow.com/questions/26796729/quickly-create-a-large-file-on-a-mac-os-x-system)*
+
+*(Source: https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)*
 
 1) find . -type f \( -name  "*~" -o -name "#*#" \) -print -delete
 
