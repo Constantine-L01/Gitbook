@@ -101,7 +101,7 @@ git log -5 --pretty=%H
 
 *(Source: https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)*
 
-1) find . -type f \( -name  "*~" -o -name "#*#" \) -print -delete
+1) `find . -type f \( -name  "*~" -o -name "#*#" \) -print -delete`
 
 * ex09
 
