@@ -9,3 +9,5 @@
 * https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c
 * https://www.cprogramming.com/c++11/rvalue-references-and-move-semantics-in-c++11.html
 * https://blog.petrzemek.net/2016/09/17/universal-vs-forwarding-references-in-cpp/
+* https://stackoverflow.com/questions/25245453/what-is-a-nondeduced-context
+* https://drewcampbell92.medium.com/?p=6b8266b6cfa4
