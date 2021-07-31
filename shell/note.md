@@ -82,6 +82,12 @@ git log -5 --pretty=%H
 
 * ex06
 
+exclude--standard is use .gitignore
+
+--ignored is to use together with exclude--standard
+
+but without -o, then we are comparing with committed files, so -o is needed for untracked files.
+
 1) git ls-files -o --ignored --exclude-standard
 
 * ex07
