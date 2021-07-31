@@ -31,8 +31,6 @@ PC ID: u91z03s02
 
 tar -xf filename // unzip tar file.
 
-### o2 but not 02.
-
 1) mkdir test0
 2) head -c 4 /dev/zero > test1
 3) mkdir test1
@@ -70,8 +68,11 @@ tar -xf filename // unzip tar file.
 *(Source: MAN LS)*
 
 -p: Write a slash ("/") after each filename if that file is a directory.
+
 -m: Stream output format; list files across the page, separated by commas.
+
 -U: Use time of file creation, instead of last modification for sorting (-t) or long output (-l).
+
 -t: Sort by time modified (most recently modified first) before sorting the operands by lexicographical order.
 
 * ex05
