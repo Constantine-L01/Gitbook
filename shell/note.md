@@ -78,6 +78,7 @@ tar -xf filename // unzip tar file.
 * ex05
 
 #!/bin/sh
+
 git log -5 --pretty=%H
 
 * ex06
