@@ -17,6 +17,7 @@
     * [59. Spiral Matrix II](leetcode/array/59.-spiral-matrix-II.md)
 * [Backtracking](leetcode/backtracking/README.md)
     * [17. Letter Combinations Of A Phone Number](leetcode/backtracking/17.-letter-combinations-of-a-phone-number.md)
+    * [37. Sudoku Solver](leetcode/backtracking/37.-sudoku-solver.md)
     * [51. N-Queens](leetcode/backtracking/51.-n-queens.md)
 * [Binary Tree](leetcode/binary-tree/README.md)
     * [94. Binary Tree Inorder Traversal](leetcode/binary-tree/94.-binary-tree-inorder-traversal.md)
