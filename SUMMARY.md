@@ -21,6 +21,7 @@
     * [39. Combination Sum](leetcode/backtracking/39.-combination-sum.md)
     * [40. Combination Sum II](leetcode/backtracking/40.-combination-sum-II.md)
     * [46. Permutations](leetcode/backtracking/46.-permutations.md)
+    * [47. Permutations II](leetcode/backtracking/47.-permutations-II.md)
     * [51. N-Queens](leetcode/backtracking/51.-n-queens.md)
 * [Binary Tree](leetcode/binary-tree/README.md)
     * [94. Binary Tree Inorder Traversal](leetcode/binary-tree/94.-binary-tree-inorder-traversal.md)
