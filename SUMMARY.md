@@ -27,6 +27,7 @@
     * [78. Subsets](leetcode/backtracking/78.-subsets.md)
     * [90. Subsets II](leetcode/backtracking/90.-subsets-II.md)
     * [93. Restore IP Addresses](leetcode/backtracking/93.-restore-ip-addresses.md)
+    * [131. Palindrome Partitioning.md](leetcode/backtracking/131.-palindrome-partitioning.md)
 * [Binary Tree](leetcode/binary-tree/README.md)
     * [94. Binary Tree Inorder Traversal](leetcode/binary-tree/94.-binary-tree-inorder-traversal.md)
     * [508. Most Frequent Subtree Sum](leetcode/binary-tree/508.-most-frequent-subtree-sum.md)
